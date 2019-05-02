@@ -9,6 +9,11 @@ public class StudyGuide{
 
   public static void main(String [] args){
   
+  //insert the selection sort method (grab off hitHub)
+  
+  
+  
+  
   
   Scanner input = new Scanner(System.in);
   
